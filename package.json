@@ -1,0 +1,22 @@
+{
+  "name": "block-cli",
+  "version": "1.0.0",
+  "description": "block-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnywanggit/block-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnywanggit/block-cli/issues"
+  },
+  "homepage": "https://github.com/sunnywanggit/block-cli#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
