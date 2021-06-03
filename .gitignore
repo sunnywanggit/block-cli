@@ -1,4 +1,4 @@
 .idea
 node_modules
 
-packages/**/node_modules
+utils/packages/**/node_modules
