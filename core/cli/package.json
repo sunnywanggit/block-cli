@@ -1,6 +1,6 @@
 {
   "name": "@sunny-blcok-cli/core",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "description": "block-cli core",
   "author": "wangzhen <wangzhen1@ijovo.com>",
   "homepage": "https://github.com/sunnywanggit/block-cli/tree/main/packages/core#readme",
@@ -33,5 +33,5 @@
     "import-local": "^3.0.2",
     "npmlog": "^4.1.2"
   },
-  "gitHead": "46d89cdfbd04abd69f70d307b7a5c535dac19629"
+  "gitHead": "4c52004b058cfd44f8a6c985bfb7d52d4c828146"
 }
